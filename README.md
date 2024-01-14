@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 -->
 
-Hello, I'm Katie. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling. 
+Hello, I'm Arun. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling. 
 
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
